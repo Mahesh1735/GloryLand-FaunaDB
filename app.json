@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "GloryLandFaunaDB",
+    "slug": "GloryLandFaunaDB",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "C:/Users/mahesh/react-task-tracker/GloryLandFaunaDB/app/assets/icon.PNG",
+    "splash": {
+      "image": "C:/Users/mahesh/react-task-tracker/GloryLandFaunaDB/app/assets/Glorylandlogo.PNG",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "C:/Users/mahesh/react-task-tracker/GloryLandFaunaDB/app/assets/icon.PNG",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "C:/Users/mahesh/react-task-tracker/GloryLandFaunaDB/app/assets/Glorylandlogo.PNG"
+    },
+    "description": "Plots buy/sell App using FaunaDB"
+  }
+}
